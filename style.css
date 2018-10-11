@@ -1,5 +1,5 @@
 .blue{
-    color:blue;
+    color:aqua;
     background-color: black;
     display: inline-block;
     padding: 10px;
@@ -23,14 +23,15 @@ h1{
     font-family: 'Roboto', sans-serif;
 }
 #spacer{
-    height:200px;
+    height:140px;
     background-color:black;
 }
 #header{
+    opacity: .8;
     width:100%;
     position: fixed;
-    background-color:orange;
-    height: 200px;
+    background-color:black;
+    height: 140px;
 }
 #footer{
     background-color:gray;
@@ -72,15 +73,15 @@ h1{
 }
 #zero{
     background-color:greenyellow;
-    height:10%;
+    /* height:10%; */
 }
 #one{
     background-color:greenyellow;
-    height:10%;
+    /* height:10%; */
 }
 #two{
     background-color:greenyellow;
-    height: 10%;
+    /* height: 10%; */
 }
 #guns{
     display: inline-block;
@@ -101,18 +102,32 @@ h1{
     color:black;
     text-decoration: none;
 }
+#gunlink:hover{
+    opacity: .5;
+    text-decoration: none;
+}
 #silverlink{
     color:silver;
+    text-decoration: none;
+}
+#silverlink:hover{
+    opacity: .5;
     text-decoration: none;
 }
 #goldlink{
     color:gold;
     text-decoration: none;
 }
+#goldlink:hover{
+    opacity: .5;
+    text-decoration: none;
+}
 #linked{
-    /* width:30px; */
     width:4%;
     margin-right: 5%;
+}
+#linked:hover{
+    opacity: .5;
 }
 #fantasy{
     height:300px;
