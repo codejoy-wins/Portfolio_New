@@ -69,7 +69,7 @@ body{
     height: 90%;
 }
 #inside-h2{
-    background-color:violet;
+    background-color:beige;
     display: inline-block;
     width:33%;
     height: 90%;
@@ -117,7 +117,7 @@ body{
     vertical-align: top;
 }
 #middle{
-    height: 5000px;
+    height: 4000px;
     color:whitesmoke;
     background-color:black;
     margin: 0 auto;
@@ -159,10 +159,17 @@ body{
     height:400px;
     text-align: center;
 }
+#redgrass{
+    height:600px;
+    text-align: center;
+}
 #football{
     height:100%;
 }
 #starbro{
+    height:100%;
+}
+#grass{
     height:100%;
 }
 #xx{
@@ -170,4 +177,7 @@ body{
 }
 #xx:hover{
     color:firebrick;
+}
+#bottom{
+    padding: 16px;
 }
