@@ -1,0 +1,129 @@
+.blue{
+    color:blue;
+    background-color: black;
+    display: inline-block;
+    padding: 10px;
+}
+.green{
+    color:green;
+    background-color: black;
+    display: inline-block;
+    padding: 10px;
+}
+h1{
+    font-size: 100%;
+    color:whitesmoke;
+    background-color: blue;
+    padding: 5px;
+    text-align: center;
+}
+/* wrapper, header, inside-h, inside-f,  */
+#wrapper{
+    background-color:gold;
+    font-family: 'Roboto', sans-serif;
+}
+#spacer{
+    height:200px;
+    background-color:black;
+}
+#header{
+    width:100%;
+    position: fixed;
+    background-color:orange;
+    height: 200px;
+}
+#footer{
+    background-color:gray;
+    /* height: 200px; */
+    /* padding: 10px; */
+}
+#inside-h{
+    background-color:blueviolet;
+    display: inline-block;
+    width:30%;
+    height: 90%;
+}
+#inside-h2{
+    background-color:violet;
+    display: inline-block;
+    width:30%;
+    height: 90%;
+    vertical-align: top;
+}
+#inside-h3{
+    background-color:purple;
+    display: inline-block;
+    width:30%;
+    height: 90%;
+    vertical-align: top;
+}
+#inside-f{
+    background-color: rgb(150, 127, 255);
+    padding: 20px;
+}
+#smaller{
+    height: 90%;
+}
+#smaller2{
+    height: 90%;
+}
+#smaller3{
+    height:90%;
+}
+#zero{
+    background-color:greenyellow;
+    height:10%;
+}
+#one{
+    background-color:greenyellow;
+    height:10%;
+}
+#two{
+    background-color:greenyellow;
+    height: 10%;
+}
+#guns{
+    display: inline-block;
+    vertical-align: top;
+}
+#silver{
+    display: inline-block;
+    vertical-align: top;
+}
+#gold{
+    display: inline-block;
+    vertical-align: top;
+}
+#middle{
+    height: 5000px;
+}
+#gunlink{
+    color:black;
+    text-decoration: none;
+}
+#silverlink{
+    color:silver;
+    text-decoration: none;
+}
+#goldlink{
+    color:gold;
+    text-decoration: none;
+}
+#linked{
+    /* width:30px; */
+    width:4%;
+    margin-right: 5%;
+}
+#fantasy{
+    height:300px;
+}
+#football{
+    height:100%;
+}
+#x{
+    color:blue;
+}
+#x:hover{
+    color:red;
+    font-size: 200%;
+}
